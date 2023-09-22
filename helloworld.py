@@ -2,4 +2,4 @@
 print("Hello World")
 print ("Hello Git")
 print("Hello OSS development")
-print("Hello CTU")
+print("Hello CTU - CICT")
